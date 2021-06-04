@@ -1,5 +1,8 @@
 package com.example.uts_akb_myself
-
+// Tanggal Pengerjaan   : Jumat, 04 juni 2021
+// Nim                  : 10118904
+// Nama                 : Firman Alfinas
+// Kelas                : IF11K
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
